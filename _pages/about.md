@@ -5,9 +5,8 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+
 ---
-
-
 
 I am currently a Ph.D. student at Zhejiang University, advised by [Prof. Zhan Qin](https://scholar.google.com/citations?user=5fa4lOQAAAAJ&hl=en). Prior to that, I obtained my bachelor degree from Wuhan University, advised by [Prof. Qian Wang](http://nisplab.whu.edu.cn/people.html).
 
@@ -17,8 +16,6 @@ I am currently a Ph.D. student at Zhejiang University, advised by [Prof. Zhan Qi
 
 - Data Privacy and Security
 - Trustworthy Machine Learning
-
-
 
 ## News
 

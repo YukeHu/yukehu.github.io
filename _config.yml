@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Yuke Hu / 胡宇轲"
+title                    : "Yuke Hu"
 title_separator          : "-"
 name                     : &name "Yuke Hu"
 description              : &description "personal description"
