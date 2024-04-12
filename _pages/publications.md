@@ -39,17 +39,17 @@ a { TEXT-DECORATION:none }
 
 ### <span style="color:rgb(39, 117, 182)">SWAT: A System-Wide Approach to Tunable Leakage Mitigation in Encrypted Data Stores</span>
 <font size="3"> Leqian Zheng, Lei Xu, Cong Wang, Sheng Wang, <b>Yuke Hu</b>, Zhan Qin, Feifei Li, Kui Ren;
-<i>VLDB 2024</i></font> <a href="https://arxiv.org/pdf/2306.16851.pdf" class="btn--arxiv" target="_blank">arxiv</a>
+<i>VLDB 2024</i></font> <a href="https://arxiv.org/abs/2306.16851" class="btn--arxiv" target="_blank">arxiv</a>
 
 <h2 id='2023'>2023</h2>
 
 ### <span style="color:rgb(39, 117, 182)">Quantifying and defending against privacy threats on federated knowledge graph embedding</span>
 <font size="3"> <b>Yuke Hu</b>, Wei Liang, Ruofan Wu, Kai Xiao, Weiqiang Wang, Xiaochen Li, Jinfei Liu, Zhan Qin;
-<i>WWW 2023</i></font> <a href="https://dl.acm.org/doi/abs/10.1145/3543507.3583450" class="btn--paper" target="_blank">pdf</a> <a href="https://arxiv.org/pdf/2304.02932" class="btn--arxiv" target="_blank">arxiv</a>
+<i>WWW 2023</i></font> <a href="https://dl.acm.org/doi/abs/10.1145/3543507.3583450" class="btn--paper" target="_blank">pdf</a> <a href="https://arxiv.org/abs/2304.02932" class="btn--arxiv" target="_blank">arxiv</a>
 
 ### <span style="color:rgb(39, 117, 182)">Privacy enhancement via dummy points in the shuffle model</span>
 
-<font size="3">Xiaochen Li, Weiran Liu, Hanwen Feng, Kunzhe Huang, <b>Yuke Hu</b>, Jinfei Liu, Kui Ren, Zhan Qin;</font> <i>TDSC 2023</i> <a href="https://arxiv.org/abs/2305.12502" class="btn--paper" target="_blank">pdf</a>
+<font size="3">Xiaochen Li, Weiran Liu, Hanwen Feng, Kunzhe Huang, <b>Yuke Hu</b>, Jinfei Liu, Kui Ren, Zhan Qin;</font> <i>TDSC 2023</i> <a href="https://ieeexplore.ieee.org/document/10088449/" class="btn--paper" target="_blank">pdf</a>
 
 ### <span style="color:rgb(39, 117, 182)">Location privacy-aware task offloading in mobile edge computing</span>
 
@@ -61,5 +61,5 @@ a { TEXT-DECORATION:none }
 <h2 id='2022'>2022</h2>
 
 ### <span style="color:rgb(39, 117, 182)">OpBoost: a vertical federated tree boosting framework based on order-preserving desensitization</span>
-<font size="3">Xiaochen Li, <b>Yuke Hu</b>, Weiran Liu, Hanwen Feng, Li Peng, Yuan Hong, Kui Ren, Zhan Qin; <i>VLDB 2022</i></font> <a href="https://dl.acm.org/doi/abs/10.14778/3565816.3565823" class="btn--paper" target="_blank">pdf</a> <a href="https://arxiv.org/pdf/2210.01318" class="btn--arxiv" target="_blank">arxiv</a>
+<font size="3">Xiaochen Li, <b>Yuke Hu</b>, Weiran Liu, Hanwen Feng, Li Peng, Yuan Hong, Kui Ren, Zhan Qin; <i>VLDB 2022</i></font> <a href="https://dl.acm.org/doi/abs/10.14778/3565816.3565823" class="btn--paper" target="_blank">pdf</a> <a href="https://arxiv.org/abs/2210.01318" class="btn--arxiv" target="_blank">arxiv</a>
 
