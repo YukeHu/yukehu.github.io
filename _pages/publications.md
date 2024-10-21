@@ -60,7 +60,7 @@ a { TEXT-DECORATION:none }
 
 <br/>
 
-<i>In International World Wide Web Conference (WWW), 2023</i></font> <a href="https://dl.acm.org/doi/abs/10.1145/3543507.3583450" class="btn--paper" target="_blank">pdf</a> 
+<i>In International World Wide Web Conference (WWW), 2023</i>, <b>spotlight</b></font> <a href="https://dl.acm.org/doi/abs/10.1145/3543507.3583450" class="btn--paper" target="_blank">pdf</a> 
 
 ### <span style="color:rgb(39, 117, 182)">Privacy enhancement via dummy points in the shuffle model</span>
 
