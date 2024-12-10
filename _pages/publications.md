@@ -47,7 +47,7 @@ a { TEXT-DECORATION:none }
 
 <font size="3"> <b>Yuke Hu*</b>, Jian Lou*, Jiaqi Liu, Wangze Ni, Feng Lin, Zhan Qin, Kui Ren  <br/>
 
-<i>In ACM Conference on Computer and Communications Security (CCS), 2024</i></font> <a href="https://arxiv.org/abs/2311.16136" class="btn--paper" target="_blank">pdf</a>
+<i>In ACM Conference on Computer and Communications Security (CCS), 2024</i></font> <a href="https://dl.acm.org/doi/10.1145/3658644.3670398" class="btn--paper" target="_blank">pdf</a>
 
 ### <span style="color:rgb(39, 117, 182)">SWAT: A System-Wide Approach to Tunable Leakage Mitigation in Encrypted Data Stores</span>
 <font size="3"> Leqian Zheng, Lei Xu, Cong Wang, Sheng Wang, <b>Yuke Hu</b>, Zhan Qin, Feifei Li, Kui Ren

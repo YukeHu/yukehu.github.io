@@ -9,9 +9,9 @@ author_profile: true
 
   
 
-## External Reviewer
+## Conference Reviewer
 
-* CCS 2024, 2022; ESORICS 2022
+* CCS 2024, 2022 (Shadow); ESORICS 2022 (Shadow)
 
 
 
