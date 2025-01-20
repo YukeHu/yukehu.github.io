@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 ## Journal Reviewer
-- TDSC, TOPS
+- TDSC, TOPS, TKDE
 
   
 

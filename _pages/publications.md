@@ -30,13 +30,13 @@ border-radius: 4px;
 a { TEXT-DECORATION:none }
 }
 </style>
-<h2 id='2024'>2025</h2>
+<!-- <h2 id='2024'>2025</h2>
 
 ### <span style="color:rgb(39, 117, 182)">Differentially Private Zeroth-Order Methods for Scalable Large Language Model Finetuning</span>
 
 <font size="3"> Zhihao Liu, Jian Lou, Wenjie Bao, <b>Yuke Hu</b>, Bo Li, Zhan Qin, Kui Ren  <br/>
 
-<i>In the Network and Distributed System Security Symposium (NDSS), 2025</i></font> <a href="https://arxiv.org/abs/2402.07818" class="btn--paper" target="_blank">pdf</a>
+<i>In the Network and Distributed System Security Symposium (NDSS), 2025</i></font> <a href="https://arxiv.org/abs/2402.07818" class="btn--paper" target="_blank">pdf</a> -->
 
 
 
