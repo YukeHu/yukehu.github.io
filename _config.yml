@@ -24,8 +24,8 @@ author:
   avatar           : "profile.jpeg"
   name             : "Yuke Hu"
   pronouns         : # example: "she/her"
-  bio              : "Ph.D. student at ZJU, now visiting at CISPA"
-  location         : "Saarbrücken, Germany"
+  bio              : "Ph.D. student at ZJU"
+  location         : "Hangzhou, China"
   # employer         : "CISPA Helmholtz Center for Information Security"
   uri              : # URL
   email            : "yukehu@zju.edu.cn"

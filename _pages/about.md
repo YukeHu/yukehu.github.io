@@ -8,7 +8,7 @@ redirect_from:
 
 ---
 
-I am a Ph.D. student at Zhejiang University, advised by [Prof. Zhan Qin](https://scholar.google.com/citations?user=5fa4lOQAAAAJ&hl=en). Currently, I am also a visiting student at CISPA Helmholtz Center for Information Security under the supervision of [Dr. Yang Zhang](https://yangzhangalmo.github.io/). Prior to these, I obtained my bachelor degree from Wuhan University, advised by [Prof. Qian Wang](http://nisplab.whu.edu.cn/people.html).
+I am currently pursuing my Ph.D. at Zhejiang University under the guidance of  [Prof. Zhan Qin](https://person.zju.edu.cn/en/zhanqin).  From May 2024 to January 2025, I was a visiting student at the CISPA Helmholtz Center for Information Security, where I worked under the supervision of [Dr. Yang Zhang](https://yangzhangalmo.github.io/). Prior to these, I obtained my bachelor degree from Wuhan University, advised by [Prof. Qian Wang](http://nisplab.whu.edu.cn/people.html).
 
 
 
@@ -19,6 +19,8 @@ I am a Ph.D. student at Zhejiang University, advised by [Prof. Zhan Qin](https:/
 
 ## News
 
+- [January 2025] Our paper titled “Membership Inference Attacks Against Vision-Language Models ” got accepted in USENIX 2025 !
+- [December 2024] Our paper titled “Privacy Risks of Federated Knowledge Graph Embedding: New Membership Inference Attacks and Personalized Differential Privacy Defense” got accepted in TDSC !
 - [May 2024] I started visiting at CISPA !
 - [April 2024] Our paper titled “ERASER: Machine Unlearning in MLaaS via an Inference Serving-Aware Approach” got accepted in CCS 2024 !
 - [January 2023] Our paper titled “Quantifying and Defending against Privacy Threats on Federated Knowledge Graph Embedding” got accepted in WWW 2023 and was selected as Spotlight Paper !
