@@ -30,13 +30,10 @@ border-radius: 4px;
 a { TEXT-DECORATION:none }
 }
 </style>
-<h2 id='2025'>2025</h2>
 
-### <span style="color:rgb(39, 117, 182)">Membership Inference Attacks Against Vision-Language Models </span>
 
-<font size="3"> <b>Yuke Hu</b>, Zheng Li, Zhihao Liu, Yang Zhang, Zhan Qin, Kui Ren, Chun Chen  <br/>
 
-<i>In USENIX Security Symposium (USENIX Security), 2025</i></font> <a href="https://arxiv.org/abs/2501.18624" class="btn--paper" target="_blank">pdf</a>
+
 
 
 <h2 id='2024'>2024</h2>
