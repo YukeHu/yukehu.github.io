@@ -36,6 +36,34 @@ a { TEXT-DECORATION:none }
 
 
 
+<h2 id='2026'>2026</h2>
+
+### <span style="color:rgb(39, 117, 182)">Shadow in the Cache: Unveiling and Mitigating Privacy Risks of KV-cache in LLM Inference </span>
+
+<font size="3"> Zhifan Luo, Shuo Shao, Su Zhang, Lijing Zhou, <b>Yuke Hu</b> †, Chenxu Zhao, Zhihao Liu, Zhan Qin † <br/>
+
+<i>In The Network and Distributed System Security (NDSS) Symposium 2026</i></font> <a href="https://arxiv.org/pdf/2508.09442" class="btn--paper" target="_blank">pdf</a>
+
+
+
+### <span style="color:rgb(39, 117, 182)">LFS: A Locally Private Framework for Degree Statistic Estimation with Laplace Mechanism </span>
+
+<font size="3"> Jiayu Li, <b>Yuke Hu</b>, Xiaoguang Li, Shiqi Zhou, Yuxiang Wang, Fenghua Li, Ben Niu <br/>
+
+<i>In IEEE Transactions on Information Forensics and Security (TIFS)</i></font> <a href="https://ieeexplore.ieee.org/abstract/document/11358778" class="btn--paper" target="_blank">pdf</a>
+
+
+
+<h2 id='2025'>2025</h2>
+
+### <span style="color:rgb(39, 117, 182)">Membership Inference Attacks Against Vision-Language Models </span>
+
+<font size="3"> <b>Yuke Hu</b>, Zheng Li, Zhihao Liu, Yang Zhang, Zhan Qin, Kui Ren, Chun Chen  <br/>
+
+<i>In USENIX Security Symposium (USENIX Security), 2025</i></font> <a href="https://www.usenix.org/system/files/conference/usenixsecurity25/sec25cycle1-prepub-977-hu-yuke.pdf" class="btn--paper" target="_blank">pdf</a>
+
+
+
 <h2 id='2024'>2024</h2>
 
 ### <span style="color:rgb(39, 117, 182)">ERASER: Machine Unlearning in MLaaS via an Inference Serving-Aware Approach</span>
@@ -93,4 +121,6 @@ a { TEXT-DECORATION:none }
 
 
 \* presents equal contribution
+
+† presents corresponding author
 
