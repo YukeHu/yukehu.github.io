@@ -52,7 +52,7 @@ a { TEXT-DECORATION:none }
 
 <i>In IEEE Transactions on Information Forensics and Security (TIFS)</i></font> <a href="https://ieeexplore.ieee.org/abstract/document/11358778" class="btn--paper" target="_blank">pdf</a>
 
-### <span style="color:rgb(39, 117, 182)">Differentially Private Zeroth-Order Methods for Scalable Large Language Model Finetuning</span>
+### <span style="color:rgb(39, 117, 182)">Differentially Private Zeroth-Order Methods for Scalable Large Language Model Fine-Tuning</span>
 
 <font size="3"> Zhihao Liu, Jian Lou, Wenjie Bao, <b>Yuke Hu</b>, Wenli Wang, Zhan Qin <br/>
 
