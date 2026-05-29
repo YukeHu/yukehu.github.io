@@ -52,6 +52,12 @@ a { TEXT-DECORATION:none }
 
 <i>In IEEE Transactions on Information Forensics and Security (TIFS)</i></font> <a href="https://ieeexplore.ieee.org/abstract/document/11358778" class="btn--paper" target="_blank">pdf</a>
 
+### <span style="color:rgb(39, 117, 182)">Differentially Private Zeroth-Order Methods for Scalable Large Language Model Finetuning</span>
+
+<font size="3"> Zhihao Liu, Jian Lou, Wenjie Bao, <b>Yuke Hu</b>, Wenli Wang, Zhan Qin <br/>
+
+<i>In IEEE Transactions on Information Forensics and Security (TIFS)</i></font> <a href="https://ieeexplore.ieee.org/abstract/document/11457969" class="btn--paper" target="_blank">pdf</a>
+
 
 
 <h2 id='2025'>2025</h2>
@@ -83,12 +89,6 @@ a { TEXT-DECORATION:none }
 <br/>
 
 <i>In International Conference on Very Large Data Bases (VLDB), 2024</i></font> <a href="https://dl.acm.org/doi/10.14778/3675034.3675038" class="btn--paper" target="_blank">pdf</a>
-
-### <span style="color:rgb(39, 117, 182)">Differentially Private Zeroth-Order Methods for Scalable Large Language Model Finetuning</span>
-
-<font size="3"> Zhihao Liu, Jian Lou, Wenjie Bao, <b>Yuke Hu</b>, Bo Li, Zhan Qin, Kui Ren  <br/>
-
-<i>CoRR abs/2402.07818, 2024</i></font> <a href="https://arxiv.org/abs/2402.07818" class="btn--paper" target="_blank">pdf</a>
 
 <h2 id='2023'>2023</h2>
 
