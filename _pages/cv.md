@@ -11,49 +11,36 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D., Zhejiang University — advised by [Prof. Zhan Qin](https://person.zju.edu.cn/en/zhanqin)
+* B.S., Wuhan University — advised by [Prof. Qian Wang](http://nisplab.whu.edu.cn/people.html)
 
-Work experience
+Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Postdoctoral Researcher, King Abdullah University of Science and Technology (KAUST)
+* Visiting Researcher, CISPA Helmholtz Center for Information Security — hosted by [Dr. Yang Zhang](https://yangzhangalmo.github.io/) (May 2024 – January 2025)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+Research Interests
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Data privacy and security
+* Trustworthy large models
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+See the full list on the [Publications](/publications/) page.
+
+Service
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
+See the [Service](/services/) page.
+
+<!--
+  Optional sections — add years and fill these in, then uncomment when ready:
+
+Skills
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
+* Programming: ...
+* Tools: ...
+
+Awards & Honors
 ======
-* Currently signed in to 43 different slack teams
+* ...
+-->

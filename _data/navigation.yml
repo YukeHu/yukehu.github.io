@@ -1,24 +1,16 @@
-# main links links
+# main links
 main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Services"
-    url: /services/    
-#  - title: "Talks"
-#    url: /talks/    
+  - title: "CV"
+    url: /cv/
 
-#  - title: "Teaching"
-#    url: /teaching/    
-    
-#  - title: "Portfolio"
-#    url: /portfolio/
-#        
-#  - title: "Blog Posts"
-#    url: /year-archive/
-    
-#  - title: "CV"
-#    url: /cv/
-    
-#  - title: "Guide"
-#    url: /markdown/
+  - title: "Services"
+    url: /services/
+
+  # Hidden for now — kept for future use (uncomment to show in the top nav):
+  # - title: "Talks"
+  #   url: /talks/
+  # - title: "Teaching"
+  #   url: /teaching/

@@ -9,7 +9,7 @@ IEEE Transactions on Dependable and Secure Computing (TDSC)
 
 IEEE Transactions on Information Forensics and Security (TIFS)
 
-ACM Transactions on Transactions on Privacy and Security (TOPS)
+ACM Transactions on Privacy and Security (TOPS)
 
 IEEE Transactions on Knowledge and Data Engineering (TKDE)
 
