@@ -3,13 +3,13 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "CV"
-    url: /cv/
-
   - title: "Services"
     url: /services/
 
   # Hidden for now — kept for future use (uncomment to show in the top nav):
+  # CV: will later point to a PDF placed in files/, e.g.:
+  # - title: "CV"
+  #   url: /files/cv.pdf
   # - title: "Talks"
   #   url: /talks/
   # - title: "Teaching"

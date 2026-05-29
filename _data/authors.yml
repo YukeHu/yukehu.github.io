@@ -1,9 +1,0 @@
-# Author metadata for multi-author posts.
-# (The sidebar profile is driven by `author:` in _config.yml, not this file.)
-
-Yuke Hu:
-  name          : "Yuke Hu"
-  bio           : "Postdoc at KAUST"
-  avatar        : "profile.jpeg"
-  email         : "yuke.hu@kaust.edu.sa"
-  googlescholar : "https://scholar.google.com/citations?hl=en&user=5fujwNoAAAAJ"

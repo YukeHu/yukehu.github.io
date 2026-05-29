@@ -13,9 +13,13 @@ ACM Transactions on Privacy and Security (TOPS)
 
 IEEE Transactions on Knowledge and Data Engineering (TKDE)
 
+Transactions on Machine Learning Research (TMLR)
+
 
 
 ## Conference Reviewer
+
+Conference on Neural Information Processing Systems (NeurIPS), 2026
 
 IEEE Conference on Secure and Trustworthy Machine Learning (SaTML), 2026
 
