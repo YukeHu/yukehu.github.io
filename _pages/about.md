@@ -30,6 +30,7 @@ I completed my Ph.D. at Zhejiang University under the guidance of [Prof. Zhan Qi
 
 - [September 2026] Our paper titled “Ask in the Crowd: Differentially Private LLM Inference via Dummy-Augmented Shuffling” got accepted in NeurIPS 2026!
 - [April 2026] I joined KAUST as a postdoctoral researcher!
+- [March 2026] Our paper titled “Differentially Private Zeroth-Order Methods for Scalable Large Language Model Fine-Tuning” got accepted in TIFS!
 - [January 2026] Our paper titled “LFS: A Locally Private Framework for Degree Statistic Estimation with Laplace Mechanism” got accepted in TIFS!
 - [December 2025] Our paper titled “Shadow in the Cache: Unveiling and Mitigating Privacy Risks of KV-Cache in LLM iInference ” got accepted in NDSS 2026!
 - [June 2025 ] I successfully passed my PhD defense and became Dr. Hu!

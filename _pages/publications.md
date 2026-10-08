@@ -40,7 +40,7 @@ a { TEXT-DECORATION:none }
 
 ### <span style="color:rgb(39, 117, 182)">Ask in the Crowd: Differentially Private LLM Inference via Dummy-Augmented Shuffling</span>
 
-<font size="3"> Zhihao Liu, Zixiong Guo, Shuo Shao, Yu He, Wenli Wang, Meihui Chen, Di Wang, <b>Yuke Hu</b> <br/>
+<font size="3"> Zhihao Liu, Zixiong Guo, Shuo Shao, Yu He, Wenli Wang, Meihui Chen, Di Wang, <b>Yuke Hu</b> † <br/>
 
 <i>In Conference on Neural Information Processing Systems (NeurIPS), 2026</i></font> <a href="https://openreview.net/forum?id=mitOdW71vU" class="btn--paper" target="_blank">pdf</a>
 
