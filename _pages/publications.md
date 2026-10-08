@@ -38,6 +38,12 @@ a { TEXT-DECORATION:none }
 
 <h2 id='2026'>2026</h2>
 
+### <span style="color:rgb(39, 117, 182)">Ask in the Crowd: Differentially Private LLM Inference via Dummy-Augmented Shuffling</span>
+
+<font size="3"> Zhihao Liu, Zixiong Guo, Shuo Shao, Yu He, Wenli Wang, Meihui Chen, Di Wang, <b>Yuke Hu</b> <br/>
+
+<i>In Conference on Neural Information Processing Systems (NeurIPS), 2026</i></font> <a href="https://openreview.net/forum?id=mitOdW71vU" class="btn--paper" target="_blank">pdf</a>
+
 ### <span style="color:rgb(39, 117, 182)">Shadow in the Cache: Unveiling and Mitigating Privacy Risks of KV-cache in LLM Inference </span>
 
 <font size="3"> Zhifan Luo, Shuo Shao, Su Zhang, Lijing Zhou, <b>Yuke Hu</b> †, Chenxu Zhao, Zhihao Liu, Zhan Qin † <br/>
