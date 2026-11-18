@@ -1,0 +1,12 @@
+# main links
+main:
+  - title: "Publications"
+    url: /publications/
+  - title: "CV"
+    url: /files/Yuke_Hu_CV.pdf
+
+  # Hidden for now — kept for future use (uncomment to show in the top nav):
+  # - title: "Talks"
+  #   url: /talks/
+  # - title: "Teaching"
+  #   url: /teaching/

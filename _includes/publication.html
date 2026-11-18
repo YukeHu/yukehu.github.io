@@ -1,0 +1,12 @@
+{% comment %}
+One publication entry. Usage: {% include publication.html p=entry %}
+where `entry` is an item of _data/publications.yml (see that file for the fields).
+{% endcomment %}
+<div class="pub">
+  <div class="pub__title">
+    <span class="pub__tag">{{ include.p.short }}{% unless include.p.journal %} {{ include.p.year }}{% endunless %}</span>{% if include.p.note %}<span class="pub__tag pub__tag--note">{{ include.p.note }}</span>{% endif %}
+    <a href="{{ include.p.url }}" target="_blank" rel="noopener">{{ include.p.title }}</a>
+  </div>
+  <div class="pub__authors">{% for a in include.p.authors %}{% if a contains "Yuke Hu" %}<b>{{ a }}</b>{% else %}{{ a }}{% endif %}{% unless forloop.last %}, {% endunless %}{% endfor %}</div>
+  <div class="pub__venue">{{ include.p.venue }}</div>
+</div>

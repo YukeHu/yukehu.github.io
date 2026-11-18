@@ -1,0 +1,125 @@
+/* ==========================================================================
+   SITE-SPECIFIC STYLES
+   Body text, publication entries, labeled lists (news, service), footer.
+   ========================================================================== */
+
+/* Body paragraphs: justified with hyphenation, on wider screens only
+   (justified text in a narrow column leaves large gaps between words). */
+
+.page__content > p {
+  @include breakpoint($small) {
+    text-align: justify;
+    -webkit-hyphens: auto;
+            hyphens: auto;
+    hyphenate-limit-chars: 8 3 3; /* leave words shorter than 8 letters whole */
+  }
+}
+
+/* Publication entries, rendered by _includes/publication.html */
+
+.pub {
+  margin: 0 0 1.1em;
+  line-height: 1.5;
+}
+
+.pub__title a {
+  font-weight: bold;
+}
+
+.pub__tag {
+  display: inline-block;
+  margin-right: 0.5em;
+  padding: 0 0.45em;
+  border: 1px solid $link-color;
+  border-radius: $border-radius;
+  color: $link-color;
+  font-size: $type-size-6;
+  font-weight: bold;
+  line-height: 1.5;
+  white-space: nowrap;
+  vertical-align: 0.1em;
+}
+
+.pub__tag--note {
+  background: $link-color;
+  color: #fff;
+}
+
+.pub__authors {
+  font-size: 0.9em;
+}
+
+.pub__venue {
+  font-size: 0.85em;
+  font-style: italic;
+}
+
+/* Labeled lists: markdown lists whose items start with a bold label, followed
+   by {: .news} or {: .service}, e.g. "- **Sep 2026** text".
+   The label sits in a fixed-width column and wrapped lines align with the text. */
+
+@mixin labeled-list($width) {
+  li {
+    padding-left: $width;
+    text-indent: -$width;
+  }
+
+  li > strong:first-child {
+    display: inline-block;
+    width: $width - 0.3em; /* a space narrower than the indent, so all lines align */
+    text-indent: 0;
+  }
+}
+
+.page__content .news,
+.page__content .service {
+  padding-left: 0;
+  list-style: none;
+
+  li {
+    margin-bottom: 0.4em;
+  }
+}
+
+.page__content .news {
+  @include labeled-list(5.5em);
+
+  li > strong:first-child {
+    font-weight: normal;
+  }
+}
+
+/* "Earlier news": a <details> block holding a second .news list, closed by default */
+
+.page__content details {
+  margin-bottom: 1.3em;
+
+  summary {
+    margin-bottom: 0.4em;
+    color: $link-color;
+    cursor: pointer;
+  }
+}
+
+/* Service: label above the entries on small screens, beside them on wider ones */
+
+.page__content .service {
+  li > strong:first-child {
+    display: block;
+  }
+
+  @include breakpoint($small) {
+    @include labeled-list(11.5em);
+  }
+}
+
+/* Footer line, from _includes/footer.html */
+
+.site-footer {
+  clear: both;
+  margin-top: 3em;
+  padding: 1.5em 1em 2em;
+  border-top: 1px solid $border-color;
+  font-size: $type-size-6;
+  text-align: center;
+}

@@ -1,0 +1,123 @@
+# Single source for the publication list, newest first.
+#
+# Rendered by _includes/publication.html in two places:
+#   /publications/  all entries, grouped by year
+#   homepage        entries marked `selected: true`
+#
+# Fields
+#   title     official title; it links to `url`
+#   authors   in order; keep * (equal contribution) and † (corresponding author)
+#   venue     full venue name
+#   short     venue abbreviation shown in the tag
+#   journal   optional, true for journal papers: the tag then shows the
+#             abbreviation alone, without the year
+#   year      year heading on /publications/; for journal papers this is
+#             the early-access year, not the year of the printed issue
+#   note      optional extra tag, e.g. Spotlight
+#   selected  optional, true to also show the entry on the homepage
+#   url       the one link of the entry: the paper's page on the official
+#             conference or publisher site; arXiv only if there is no such page
+
+- title: "Ask in the Crowd: Differentially Private LLM Inference via Dummy-Augmented Shuffling"
+  authors: [Zhihao Liu, Zixiong Guo, Shuo Shao, Yu He, Wenli Wang, "Meihui Chen†", Di Wang, "Yuke Hu†"]
+  venue: Conference on Neural Information Processing Systems
+  short: NeurIPS
+  year: 2026
+  selected: true
+  url: "https://neurips.cc/virtual/2026/poster/149860"
+
+- title: "Towards Mitigating Excessive Forgetting in LLM Unlearning via Entanglement-Guidance with Proxy Constraint"
+  authors: [Zhihao Liu, Jian Lou, "Yuke Hu†", Xiaochen Li, Yitian Cheng, Tailun Chen, Zhizhen Qin, "Zhan Qin†", Kui Ren]
+  venue: IEEE Transactions on Dependable and Secure Computing
+  short: TDSC
+  journal: true
+  year: 2026
+  url: "https://ieeexplore.ieee.org/document/11702528"
+
+- title: "Shadow in the Cache: Unveiling and Mitigating Privacy Risks of KV-cache in LLM Inference"
+  authors: [Zhifan Luo, Shuo Shao, Su Zhang, Lijing Zhou, "Yuke Hu†", Chenxu Zhao, Zhihao Liu, "Zhan Qin†"]
+  venue: Network and Distributed System Security Symposium
+  short: NDSS
+  year: 2026
+  selected: true
+  url: "https://www.ndss-symposium.org/ndss-paper/shadow-in-the-cache-unveiling-and-mitigating-privacy-risks-of-kv-cache-in-llm-inference/"
+
+- title: "LFS: A Locally Private Framework for Degree Statistic Estimation with Laplace Mechanism"
+  authors: [Jiayu Li, Yuke Hu, Xiaoguang Li, Shiqi Zhou, Yuxiang Wang, Fenghua Li, Ben Niu]
+  venue: IEEE Transactions on Information Forensics and Security
+  short: TIFS
+  journal: true
+  year: 2026
+  url: "https://ieeexplore.ieee.org/abstract/document/11358778"
+
+- title: "Differentially Private Zeroth-Order Methods for Scalable Large Language Model Fine-Tuning"
+  authors: [Zhihao Liu, Jian Lou, Wenjie Bao, Yuke Hu, Wenli Wang, Zhan Qin]
+  venue: IEEE Transactions on Information Forensics and Security
+  short: TIFS
+  journal: true
+  year: 2026
+  url: "https://ieeexplore.ieee.org/abstract/document/11457969"
+
+- title: "Membership Inference Attacks Against Vision-Language Models"
+  authors: [Yuke Hu, Zheng Li, Zhihao Liu, Yang Zhang, Zhan Qin, Kui Ren, Chun Chen]
+  venue: USENIX Security Symposium
+  short: USENIX Security
+  year: 2025
+  selected: true
+  url: "https://www.usenix.org/conference/usenixsecurity25/presentation/hu-yuke"
+
+- title: "ERASER: Machine Unlearning in MLaaS via an Inference Serving-Aware Approach"
+  authors: ["Yuke Hu*", "Jian Lou*", Jiaqi Liu, Wangze Ni, Feng Lin, Zhan Qin, Kui Ren]
+  venue: ACM Conference on Computer and Communications Security
+  short: CCS
+  year: 2024
+  selected: true
+  url: "https://dl.acm.org/doi/10.1145/3658644.3670398"
+
+- title: "Privacy Risks of Federated Knowledge Graph Embedding: New Membership Inference Attacks and Personalized Differential Privacy Defense"
+  authors: [Yuke Hu, Yang Wang, Jian Lou, Wei Liang, Ruofan Wu, Weiqiang Wang, Xiaochen Li, Jinfei Liu, Zhan Qin]
+  venue: IEEE Transactions on Dependable and Secure Computing
+  short: TDSC
+  journal: true
+  year: 2024
+  selected: true
+  url: "https://ieeexplore.ieee.org/abstract/document/10815075"
+
+- title: "SWAT: A System-Wide Approach to Tunable Leakage Mitigation in Encrypted Data Stores"
+  authors: [Leqian Zheng, Lei Xu, Cong Wang, Sheng Wang, Yuke Hu, Zhan Qin, Feifei Li, Kui Ren]
+  venue: International Conference on Very Large Data Bases
+  short: VLDB
+  year: 2024
+  url: "https://dl.acm.org/doi/10.14778/3675034.3675038"
+
+- title: "Quantifying and Defending against Privacy Threats on Federated Knowledge Graph Embedding"
+  authors: [Yuke Hu, Wei Liang, Ruofan Wu, Kai Xiao, Weiqiang Wang, Xiaochen Li, Jinfei Liu, Zhan Qin]
+  venue: International World Wide Web Conference
+  short: WWW
+  year: 2023
+  note: Spotlight
+  selected: true
+  url: "https://dl.acm.org/doi/abs/10.1145/3543507.3583450"
+
+- title: "Privacy Enhancement via Dummy Points in the Shuffle Model"
+  authors: [Xiaochen Li, Weiran Liu, Hanwen Feng, Kunzhe Huang, Yuke Hu, Jinfei Liu, Kui Ren, Zhan Qin]
+  venue: IEEE Transactions on Dependable and Secure Computing
+  short: TDSC
+  journal: true
+  year: 2023
+  url: "https://ieeexplore.ieee.org/document/10088449/"
+
+- title: "Location Privacy-Aware Task Offloading in Mobile Edge Computing"
+  authors: [Zhibo Wang, Yunan Sun, Defang Liu, Jiahui Hu, Xiaoyi Pang, Yuke Hu, Kui Ren]
+  venue: IEEE Transactions on Mobile Computing
+  short: TMC
+  journal: true
+  year: 2023
+  url: "https://ieeexplore.ieee.org/abstract/document/10065551/"
+
+- title: "OpBoost: A Vertical Federated Tree Boosting Framework Based on Order-Preserving Desensitization"
+  authors: ["Xiaochen Li*", "Yuke Hu*", Weiran Liu, Hanwen Feng, Li Peng, Yuan Hong, Kui Ren, Zhan Qin]
+  venue: International Conference on Very Large Data Bases
+  short: VLDB
+  year: 2022
+  url: "https://dl.acm.org/doi/abs/10.14778/3565816.3565823"

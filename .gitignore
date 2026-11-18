@@ -1,0 +1,18 @@
+# Ignore the contents of the _site directory
+_site/
+
+# Ignore the Gemfile that is generated
+Gemfile.lock
+
+# Ingore files created by npm
+node_modules
+package-lock.json
+
+# Ignore macOS Finder metadata
+.DS_Store
+
+# Ignore locally bundled gems
+vendor/
+
+# Ignore local bundler config
+.bundle/
